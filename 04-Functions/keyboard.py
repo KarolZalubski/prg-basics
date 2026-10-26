@@ -1,4 +1,3 @@
-
 def input_string(message):
     message = str(input(message))
     return message
